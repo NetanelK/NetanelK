@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Netanel
+
+___________
+
+
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?logo=linkedin)](https://www.linkedin.com/in/netanel-kadosh)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-green)](https://netanelk.github.io/)
 
 <!--
 **NetanelK/NetanelK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
