@@ -24,7 +24,7 @@
   <a href="https://raw.githubusercontent.com/NetanelK/easybank-landing-page/master/design/desktop-preview.jpg">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NetanelK&repo=rest-countries-api-with-color-theme-switcher-master&theme=vue" />
   </a>&nbsp;
-  <a href="https://github.com/NetanelK/easybank-landing-page">
+  <a href="https://github.com/NetanelK/weather-app-master">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NetanelK&repo=weather-app-master&theme=vue" />
   </a>
   <br/>
