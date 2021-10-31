@@ -86,7 +86,7 @@ Also, I take [Udemy](https://www.udemy.com/) Courses online, right now it's a re
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NetanelK&show_icons=true&include_all_commits=true&theme=vue" width="475"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NetanelK&show_icons=true&include_all_commits=true&theme=vue&line_height=32" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NetanelK&layout=compact&theme=vue" width="400" />
 </p>
 
